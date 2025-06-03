@@ -1,6 +1,6 @@
 ## MartiniMarkov
 
-Welcome to my public profile! This includes examples of [Certificates of Completionl(https://www.learnenough.com/certificates/mhartl) from [Learn_
+Welcome to my public profile! This includes examples of [Certificates of Completionl(https://www.learnenough.com/certificates/martinimarkov) from [Learn_
 Enough] (https://www.learnenough.com/).
 
 <a href="https://www.learnenough.com/certificates/martinimarkov"><img src="https://www.learnenough.com/certificates/martinimarkov/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a>
