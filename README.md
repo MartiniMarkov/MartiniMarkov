@@ -1,12 +1,11 @@
 ## MartiniMarkov
 
-Welcome to my public profile! This includes examples of [Certificates of Completionl(https://www.learnenough.com/certificates/martinimarkov) from [Learn_
-Enough] (https://www.learnenough.com/).
+Welcome to my public profile! This includes examples of [Certificates of Completion](https://www.learnenough.com/certificates/martinimarkov) from [Learn_
+Enough](https://www.learnenough.com/).
 
 <a href="https://www.learnenough.com/certificates/martinimarkov"><img src="https://www.learnenough.com/certificates/martinimarkov/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a>
 
-Those badges show that I have completed the online courses for Learn Enough Command Line to Be Dangerous](https://www.learnenough. com/command-
-line) and [Learn Enough Text Editor to Be Dangerous (https://www. learnenough.com/text-editor).
+Those badges show that I have completed the online courses for [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line) and [Learn Enough Text Editor to Be Dangerous](https://www.learnenough.com/text-editor).
 
 <!--
 **MartiniMarkov/MartiniMarkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
