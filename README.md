@@ -1,11 +1,17 @@
 ## MartiniMarkov
 
-Yo, here are some cool badges :). [Certificates of Completion](https://www.learnenough.com/certificates/martinimarkov) from [Learn_
-Enough](https://www.learnenough.com/).
+### 🏆 Certified Dangerous
 
-<a href="https://www.learnenough.com/certificates/martinimarkov"><img src="https://www.learnenough.com/certificates/martinimarkov/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a>
+I've officially been cleared to be **dangerous**. 😎
 
-Those badges show that I have completed the online courses for [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line) and [Learn Enough Text Editor to Be Dangerous](https://www.learnenough.com/text-editor).
+[![Certificate of Completion for Learn Enough Command Line](https://www.learnenough.com/certificates/martinimarkov/command-line-tutorial.svg)](https://www.learnenough.com/certificates/martinimarkov)
+
+Fresh off completing two [Learn Enough](https://www.learnenough.com/) courses:
+
+- ⌨️ [**Command Line to Be Dangerous**](https://www.learnenough.com/command-line): navigating, scripting, and bending the shell to my will
+- ✍️ [**Text Editor to Be Dangerous**](https://www.learnenough.com/text-editor): editing at the speed of thought
+
+[View all my certificates →](https://www.learnenough.com/certificates/martinimarkov)
 
 ### I'm currently working on 
 - 
