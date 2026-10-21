@@ -4,7 +4,7 @@
 
 I've officially been cleared to be **dangerous**. 😎
 
-[![Certificate of Completion for Learn Enough Command Line](https://www.learnenough.com/certificates/martinimarkov/command-line-tutorial-dark.svg)](https://www.learnenough.com/certificates/martinimarkov)
+[![Certificate of Completion for Learn Enough Command Line](https://www.learnenough.com/certificates/martinimarkov/command-line-tutorial.svg)](https://www.learnenough.com/certificates/martinimarkov)
 
 Fresh off completing two [Learn Enough](https://www.learnenough.com/) courses:
 
